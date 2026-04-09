@@ -10,8 +10,8 @@ Richter's Predictor: Modeling Earthquake Damage
 
 El 25 de abril de 2015, un terremoto de magnitud 7.8 Mw con epicentro en Gorkha (Nepal) causo aproximadamente 9.000 muertos y 10.000 millones de dolares en danos. El objetivo de esta actividad es predecir el nivel de dano estructural de cada edificio afectado:
 
-- **Grado 1** — Dano bajo  
-- **Grado 2** — Dano moderado  
+- **Grado 1** — Daño bajo  
+- **Grado 2** — Daño moderado  
 - **Grado 3** — Destruccion completa  
 
 Los datos fueron recopilados por el Kathmandu Living Labs y la Central Bureau of Statistics de Nepal, y representan uno de los mayores datasets post-catastrofe jamas reunidos.
