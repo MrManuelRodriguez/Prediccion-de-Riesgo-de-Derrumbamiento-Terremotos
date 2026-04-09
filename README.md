@@ -166,7 +166,6 @@ Referencia: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1
 | SVM (GridSearch) | cuarto |
 | Decision Tree | baseline |
 
-> Actualizar esta tabla con los valores reales obtenidos tras ejecutar el notebook.
 
 ---
 
